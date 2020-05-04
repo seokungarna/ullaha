@@ -25,11 +25,10 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives and works in Osaka
-              building useful things.
+             Skrivet av <strong>{author}</strong> som bor i Stockholm och älskar livet.
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
+                Följ mig på twitter!
               </a>
             </p>
           </section>

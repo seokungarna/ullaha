@@ -48,7 +48,7 @@ class ContentNoImage extends Component {
         <Link to={props.node.fields.slug} className="post-card-link post-card-readmore">
           {
             props.node.frontmatter.description || props.node.excerpt
-              ?("Read more")
+              ?("Läs mer")
               :(null)
           }
         </Link>

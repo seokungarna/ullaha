@@ -24,19 +24,19 @@ const Layout = props => {
               </div>
             </div>
           </a>
-          <nav id="swup" class="site-head-left">
+          <nav id="swup" className="site-head-left">
             <ul className="nav" role="menu">
               {/* <li className="nav-home nav-current" role="menuitem">
                 <Link to={`/`}>Home</Link>
               </li> */}
               <li className="nav-about" role="menuitem">
-                <Link to={`/about`}>About</Link>
+                <Link to={`/om`}>Om</Link>
               </li>
-              <li className="nav-elements" role="menuitem">
+              {/* <li className="nav-elements" role="menuitem">
                 <Link to={`/elements`}>Elements</Link>
-              </li>
+              </li> */}
               <li className="nav-tags" role="menuitem">
-                <Link to={`/tags`}>Tags</Link>
+                <Link to={`/tags`}>Taggar</Link>
               </li>
             </ul>
           </nav>
@@ -71,14 +71,14 @@ const Layout = props => {
               >
                 RSS
               </Link>
-              <a
+              {/* <a
                 href="https://github.com/vaporwavy/gatsby-london-after-midnight"
                 title="GitHub"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 GitHub
-              </a>
+              </a> */}
             </div>
           </div>
         </div>
@@ -90,14 +90,14 @@ const Layout = props => {
       </main>
       <footer className="site-foot">
         &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
-        Built with{" "}
-        <a
-          href="https://gatsbyjs.org"
+        Byggd av {" "}
+        { <a
+          href="https://twitter.com/JayKay137"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Gatsby
-        </a>
+         JayKay
+        </a> }
       </footer>
     </div>
   )
