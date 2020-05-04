@@ -64,7 +64,7 @@ const Layout = props => {
                 Twitter
               </a>
               <Link
-                to={`/rss.xml`}
+                to={`/`}
                 title="RSS"
                 target="_blank"
                 rel="noopener noreferrer"
