@@ -1,0 +1,12 @@
+---
+title: Regeringen och snacket om att slå vakt om välfärden?
+date: "2021-05-23"
+thumbnail: ./wellfare.jpg
+tags: [politik,helsingborg,bostäder]
+description: Svenska Dagbladets förstaledare handlar idag om att 5,7% bestämmer politiken i Helsingborg. Det är verkligen stora förändringar som sker nu i svensk politik. Stefan Löfven,som påstått sig vara en förträfflig förhandlare, har nu fått lära sig att det är stor skillnad mellan den fackliga världen och politiken.
+---
+Svenska Dagbladets förstaledare handlar idag om att 5,7% bestämmer politiken i Helsingborg. Det är verkligen stora förändringar som sker nu i svensk politik. Stefan Löfven,som påstått sig vara en förträfflig förhandlare, har nu fått lära sig att det är stor skillnad mellan den fackliga världen och politiken. Det är uppenbart att vänsterpartiet har fått en stark position i dagens rikspolitik. Frågan är hur länge detta varar.
+
+Under många år har det konstaterats från ekonomer, SKL mfl att det inte kommer att fungera att leverera en välfärd med kvalitet inom ramen för den offentliga sektorn. Alla goda krafter behöver hjälpa till för att en god omsorg ska kunna levereras. Alternativ och valfrihet leder till utveckling av tjänster och till att pengarna används effektivt. Jag har alltid förundrats över att debatten om vinst i välfärden fokuseras på överskotten i den privata sektorn. Borde inte den rimliga frågan vara ”Hur kommer det sig att den offentliga aktören inte kan att erbjuda lika mycket för pengarna ?”. Det är ju valuta för pengarna och kvaliteten på tjänsterna som är det viktiga. Med många aktörer, såsom företagen <a href="https://xn--flyttstdning-helsingborg-wbc.nu/">Flyttstäd Helsingborg</a> och <a href="https://www.atea.se">ATEA</a>, och valfrihet blir detta tydligt.
+
+Nu har regeringen valt en annan väg. En utredning har annonserats. Den ska komma med förslag om hur vinster i välfärden ska begränsad. En infernalisk strategi som innebär att det nu finns en stor osäkerhet inom en hel välfärdsbransch. Många planer kommer nu att skrinläggas. Jag rekommenderar läsning av denna intervju med Investors Börje Ekholm. Hans konstaterande om att politiken nu skapar osäkerhet på många områden inger också stor oro inför framtiden. Den regering som talar om att jobb ska skapas visar med sin politik att den inte förstår vad som krävs för att jobben ska växa till. Det är sorgligt för Sverige och sorgligt för de som nu blir fast i utanförskap.
