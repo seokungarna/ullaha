@@ -3,7 +3,7 @@ title: Vinter och tid för museibesök
 date: "2022-01-31"
 tags: [konst,hantverk,familj]
 thumbnail: ./konst.jpg
-description: Smarta hem är vägen att gå för att ta hand om våra äldre.
+description: Nu har julen varit och det är nytt år och alla går mest runt och väntar på sol och vår. Dags för museibesök.
 
 ---
 Nu har julen varit och det är nytt år och alla går mest runt och väntar på sol och vår. Den här tiden på året brukar jag ägna åt museibesök. En perfekt tid, det är kyligt, kallt, mörkt och vinter ute fortfarande så vad passar inte bättre än att besöka ett museum!
