@@ -3,10 +3,7 @@ import { graphql, StaticQuery } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-// import Bio from "../components/bio"
 import PostCard from "../components/postCard"
-
-// import "../utils/global.scss"
 import "../utils/normalize.css"
 import "../utils/css/screen.css"
 //TODO: switch to staticQuery, get rid of comments, remove unnecessary components, export as draft template
@@ -18,8 +15,15 @@ const BlogIndex = ({ data }, location) => {
   return (
     <Layout title={siteTitle}>
       <SEO
-        title="Posts"
-        keywords={[`devlog`, `blog`, `gatsby`, `javascript`, `react`]}
+        title="Ulla Hamiltons Blogg"
+        keywords={[
+          `konst`,
+          `blogg`,
+          `hantverk`,
+          `spel`,
+          `ulla hamilton`,
+          `politik`,
+        ]}
       />
       {/* <Bio /> */}
       {data.site.siteMetadata.description && (
