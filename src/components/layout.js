@@ -64,21 +64,13 @@ const Layout = props => {
                 Twitter
               </a>
               <Link
-                to={`/`}
+                to={`/rss.xml`}
                 title="RSS"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 RSS
               </Link>
-              {/* <a
-                href="https://github.com/vaporwavy/gatsby-london-after-midnight"
-                title="GitHub"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                GitHub
-              </a> */}
             </div>
           </div>
         </div>
@@ -90,14 +82,16 @@ const Layout = props => {
       </main>
       <footer className="site-foot">
         &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
-        Byggd av {" "}
-        { <a
-          href="https://twitter.com/JayKay137"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-         JayKay
-        </a> }
+        Byggd av{" "}
+        {
+          <a
+            href="https://twitter.com/JayKay137"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            JayKay
+          </a>
+        }
       </footer>
     </div>
   )
